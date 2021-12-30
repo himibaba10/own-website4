@@ -74,6 +74,10 @@ header .row .hero-img{
     text-align: right;
 }
 
+main {
+    overflow: hidden;
+}
+
 /* Style Services Section */
 
 .services-section {
@@ -772,6 +776,10 @@ body.dark h1,body.dark h2,body.dark p, body.dark .theme, body.dark #scroll-to-to
 
     .projects-section .project-image {
         height: 200px;
+    }
+
+    #scroll-to-top{
+        right: 20px;
     }
 
 }
